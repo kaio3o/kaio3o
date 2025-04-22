@@ -4,7 +4,7 @@
 
 ### 📊 技能樹（努力灌水中）
 
-- 🌐 前端：HTML / CSS / JavaScript / React
+- 🌐 前端：HTML / CSS / JavaScript / ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 - 🧠 機器學習：Python / Keras / pandas / seaborn
 - 🎨 興趣： 畫畫
 
@@ -18,4 +18,4 @@
 
 ### 🔗 連結
 
- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaio3o&repo=steam-analysis-)](https://github.com/anuraghazra/steam-analysis-)
