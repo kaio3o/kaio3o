@@ -30,9 +30,14 @@
 ---
 
 ### 🔗 連結
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/genius_kys0130)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/sky_o3o_)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmlzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTQyLjExIDMxLjY4Yy0yLjAzIDIuOTUtNS41IDQuNDItOS4xMyA0LjItMS42My0uMDMtMy4yLS4zOC00LjY2LS45OS0uNzcuMzMtMS41NC42NS0yLjMxLjk3IDMuMzItMi44MyA1LjU4LTYuMzEgNi42Mi05LjYxIDEuMS0zLjIzIDEuMjItNi4zMy4zNC04LjM3LS42Ni0xLjUyLTEuNzgtMi42My0zLjMtMy4zMy0xLjM0LS42LTEuOTUtMS4yNi0yLjA4LTEuNzgtLjA5LS40NiAwLS42Ny40NC0uNzcuNjYtLjEzIDEuMzMtLjIgMi0uMjFhMjIuNTMgMjIuNTMgMCAwIDEgNy4yNCAxLjI3YzMuNzcuODIgNy4wNiAyLjg5IDguNDMgNi4yMiAxLjE2IDIuNzcuOTQgNi4yNC0uNjEgMTAuMzYtMS4zMiAzLjQ1LTMuNCA2LjgtNiA5LjQzeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)](https://bsky.app/profile/kai-ouo.bsky.social)
+<a href="https://instagram.com/genius_kys0130">
+  <img src="https://img.shields.io/badge/-ffffff?logo=instagram&logoColor=E4405F&style=social" />
+</a>
+<a href="https://x.com/sky_o3o_">
+  <img src="https://img.shields.io/badge/-ffffff?logo=twitter&logoColor=000000&style=social" />
+</a>
+<a href="https://bsky.app/profile/kai-ouo.bsky.social">
+  <img src="https://img.shields.io/badge/-ffffff?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmlzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTQyLjExIDMxLjY4Yy0yLjAzIDIuOTUtNS41IDQuNDItOS4xMyA0LjItMS42My0uMDMtMy4yLS4zOC00LjY2LS45OS0uNzcuMzMtMS41NC42NS0yLjMxLjk3IDMuMzItMi44MyA1LjU4LTYuMzEgNi42Mi05LjYxIDEuMS0zLjIzIDEuMjItNi4zMy4zNC04LjM3LS42Ni0xLjUyLTEuNzgtMi42My0zLjMtMy4zMy0xLjM0LS42LTEuOTUtMS4yNi0yLjA4LTEuNzgtLjA5LS40NiAwLS42Ny40NC0uNzcuNjYtLjEzIDEuMzMtLjIgMi0uMjFhMjIuNTMgMjIuNTMgMCAwIDEgNy4yNCAxLjI3YzMuNzcuODIgNy4wNiAyLjg5IDguNDMgNi4yMiAxLjE2IDIuNzcuOTQgNi4yNC0uNjEgMTAuMzYtMS4zMiAzLjQ1LTMuNCA2LjgtNiA5LjQzeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&style=social" />
+</a>
 
 
