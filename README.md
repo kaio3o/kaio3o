@@ -11,8 +11,8 @@
 ---
 
 ### 📈 GitHub 統計
-![animeNEET's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeNEET&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeNEET&layout=compact&theme=tokyonight)
+![animeNEET's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaio3o&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaio3o&layout=compact&theme=tokyonight)
 
 ---
 
