@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center"></h1>
 
-<!--
-**kaio3o/kaio3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 技能樹（努力灌水中）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 前端：HTML / CSS / JavaScript / React
+- 🧠 機器學習：Python / Keras / pandas / seaborn
+- 🎨 興趣： 畫畫
+
+---
+
+### 📈 GitHub 統計
+![animeNEET's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeNEET&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeNEET&layout=compact&theme=tokyonight)
+
+---
+
+### 🔗 連結
+
